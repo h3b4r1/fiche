@@ -1,4 +1,4 @@
-# This is a for of [Fiche](https://github.com/solusipse/fiche)
+# This is a fork of [Fiche](https://github.com/solusipse/fiche)
 =====
 For the moment this fork is just for posterity/availability. I may work on adding to it in the future.
 
