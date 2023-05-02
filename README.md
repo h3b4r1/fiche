@@ -1,5 +1,6 @@
-fiche [![Build Status](https://travis-ci.org/solusipse/fiche.svg?branch=master)](https://travis-ci.org/solusipse/fiche)
+# This is a for of [Fiche](https://github.com/solusipse/fiche)
 =====
+For the moment this fork is just for posterity/availability. I may work on adding to it in the future.
 
 Command line pastebin for sharing terminal output.
 
